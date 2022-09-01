@@ -197,7 +197,7 @@ def menu(my_name,my_id):
 	alvino_xy(f'{h}IP  : {ip}')
 	cetak(nel('\t[bold cyan]           • CHOOSE CLONING MENU • [/bold cyan]'))
 	print('')
-	cetak(nel('[bold green] ❤️1. CRACK PUBLIK ID\n  ❤️2. CHEK RESULTS\n ❤️0. EXIT [bold green]')) 
+	cetak(nel('[bold green] [√]1. CRACK PUBLIK ID\n [√]2. CHEK RESULTS\n [√]0. EXIT [bold green]')) 
 	_____cowok__pink_____ = input('\n CHOOSE : ')
 	if _____cowok__pink_____ in ['1']:
 		dump_massal()
